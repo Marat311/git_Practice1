@@ -7,5 +7,5 @@ public class conflict {
 //this is collection branch content
     //this is the change collection 2 branch
     //conflict line
-
+    //more work on collection 2
 }
